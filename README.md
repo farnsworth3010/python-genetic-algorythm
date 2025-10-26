@@ -35,7 +35,7 @@ The diet problem is a classic optimization challenge: select a set of foods to s
 ## Customization
 
 - You can modify food data and nutritional constraints in `data.py`.
-- Genetic algorithm parameters (population size, mutation rate, etc.) can be adjusted in `algorythm.py`.
+- Genetic algorithm parameters (population size, mutation rate, etc.) can be adjusted in `data.py`.
 
 ## Requirements
 
